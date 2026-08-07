@@ -1,10 +1,10 @@
 # Fundamentos de Node.js
 
 ## O que é Node.js?
-É uma plataforma onde se executa a linguagem java script e acessa navegadores, servidores, banco de dados.
+É um ambiente de execução que permite rodar JavaScript fora do navegador. Ele pode acessar arquivos, rede, sistema operacional e serviços externos, como bancos de dados, por meio de APIs e bibliotecas.
 
 ## Qual é a diferença entre JavaScript no navegador e no Node.js?
-O ambiente de execução e as apis, no navegador ele roda do lado do cliente e no node ele roda do lado do servidor, fazendo o backend
+O ambiente de execução e as apis, no navegador ele roda do lado do cliente e no node o JavaScript roda fora do navegador e pode ser usado para backend, scripts, automações e ferramentas de desenvolvimento.
 
 ## Para que serve o npm?
 Gerenciar os pacotes padrão do node, instalar as bibliotecas externas, executa tarefas entre outras coisas.
